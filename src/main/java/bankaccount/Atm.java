@@ -1,4 +1,4 @@
-package bank;
+package bankaccount;
 
 public class Atm {
     public String machineid;
