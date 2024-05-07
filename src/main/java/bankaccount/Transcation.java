@@ -1,4 +1,4 @@
-package bank;
+package bankaccount;
 
 public class Transcation {
     public String transactionid;
